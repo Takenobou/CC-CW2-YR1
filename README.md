@@ -1,6 +1,8 @@
 # CC-CW2-YR1
 CompSci Year 1 Computing Fundamentals Coursework 2: Personal Website
 
+https://takenobou.github.io/CC-CW2-YR1/
+
 ## Objectives
 Overview: In this coursework, you will create a CV web page <userName.html> using HTML and Cascaded Style Sheets. You are free to design your own web page, but contend should cover some specific information and you are only allowed to use HTML and CSS.
 
